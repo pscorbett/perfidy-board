@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "9.0.2"
     },
-    "CreationDate": "2025-08-09T11:44:39-07:00"
+    "CreationDate": "2025-08-09T13:20:03-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "perfidy-board",
       "GUID": "70657266-6964-4792-9d62-6f6172642e6b",
-      "Revision": "1.0"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 70.6501,
@@ -33,7 +33,7 @@
       "PadToPad": 0.127,
       "PadToTrack": 0.127,
       "TrackToTrack": 0.127,
-      "MinLineWidth": 0.508
+      "MinLineWidth": 0.254
     }
   ],
   "FilesAttributes": [
